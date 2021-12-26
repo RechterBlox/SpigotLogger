@@ -1,0 +1,6 @@
+name: SpigotLogger
+version: 1.0
+main: de.blox.spigotlogger.SpigotLogger
+api-version: 1.17
+commands:
+

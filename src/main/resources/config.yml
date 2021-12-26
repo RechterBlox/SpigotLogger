@@ -1,0 +1,14 @@
+CommandLogger-DiscordWebhook: "YOUR WEBHOOK"
+MessageLogger-DiscordWebhook: "YOUR WEBHOOK"
+BreakBlockLogger-DiscordWebhook: "YOUR WEBHOOK"
+PlaceBlockLogger-DiscordWebhook: "YOUR WEBHOOK"
+DeathLogger-DiscordWebhook: "YOUR WEBHOOK"
+JoinLogger-DiscordWebhook: "YOUR WEBHOOK"
+QuitLogger-DiscordWebhook: "YOUR WEBHOOK"
+commandLogger: false
+messageLogger: false
+breakBlockLogger: false
+placeBlockLogger: false
+deathLogger: false
+joinLogger: false
+quitLogger: false
